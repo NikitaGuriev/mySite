@@ -1,0 +1,5 @@
+{
+  "port": 8084,
+  "mongoURI": "mongodb+srv://nikita_guriev:vvFqGd8mn5uMopx2@gurievoleg.aguvo.mongodb.net/memoryBook?retryWrites=true&w=majority",
+  "baseURL": "http://localhost:5000"
+}
